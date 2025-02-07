@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\C#\\EF project\\Pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\editeshowuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\editeshowuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|E:\\ITI\\C#\\EF project\\Pharmacy\\pharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\models\\modelviewsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\modelviewsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\models\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\models\\pharmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\pharmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|e:\\iti\\c#\\ef project\\pharmacy\\pharmacy\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B271033D-829D-4C10-8860-687555C1D8B5}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "customer.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\customer.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\customer.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\customer.cs",
+              "RelativeToolTip": "Pharmacy\\customer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:40:03.978Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Form2.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Form2.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Form2.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:22:04.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Suppliers.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Suppliers.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Suppliers.cs*",
+              "RelativeToolTip": "Pharmacy\\Suppliers.cs*",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAjwGcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:26:13.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Sales.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Sales.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Sales.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\Sales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:15:16.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Program.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Program.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Program.cs*",
+              "RelativeToolTip": "Pharmacy\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:54:41.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Suppliers.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Suppliers.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Suppliers.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Suppliers.cs [Design]*",
+              "RelativeToolTip": "Pharmacy\\Suppliers.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:22:29.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditeShowUser.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\EditeShowUser.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\EditeShowUser.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\EditeShowUser.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\EditeShowUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:25:43.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Products.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Products.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Products.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:27:51.059Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Login.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Login.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Login.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:27:49.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Form2.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Form2.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Form2.cs",
+              "RelativeToolTip": "Pharmacy\\Form2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA8wCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:22:10.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\Product.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\Product.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:27:09.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "customer.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\customer.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\customer.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\customer.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:20:44.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\Customer.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\Customer.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:10:22.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\Sale.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\Sale.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:26:21.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "modelviewsupplier.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\modelviewsupplier.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\modelviewsupplier.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\modelviewsupplier.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\modelviewsupplier.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA/wAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:14:54.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\User.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\User.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:28:20.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\Supplier.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\Supplier.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:28:11.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SaleDetail.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\SaleDetail.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\SaleDetail.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\SaleDetail.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\SaleDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:27:54.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PharmaContext.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\PharmaContext.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\PharmaContext.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Models\\PharmaContext.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\PharmaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:48:43.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Form1.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Form1.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Form1.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:26:08.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Sales.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Sales.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Sales.cs",
+              "RelativeToolTip": "Pharmacy\\Sales.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:51:33.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Products.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Products.cs",
+              "ToolTip": "E:\\ITI\\C#\\EF project\\Pharmacy\\Pharmacy\\Products.cs",
+              "RelativeToolTip": "Pharmacy\\Products.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:14:42.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
